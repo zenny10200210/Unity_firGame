@@ -41,6 +41,12 @@ TextureImporter:
   - first:
       213: 3600464525258439017
     second: bedroom_12
+  - first:
+      213: -8017508490787355661
+    second: bedroom_13
+  - first:
+      213: -855545898642652073
+    second: bedroom_14
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -254,27 +260,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bedroom_5
-      rect:
-        serializedVersion: 2
-        x: 556
-        y: 767
-        width: 287
-        height: 129
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 92b46ff65766d8a429d6f2e4c81ff6ec
-      internalID: -5768650751410032934
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: bedroom_6
       rect:
         serializedVersion: 2
@@ -302,7 +287,7 @@ TextureImporter:
         x: 46
         y: 84
         width: 188
-        height: 337
+        height: 201
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -409,7 +394,7 @@ TextureImporter:
         width: 179
         height: 97
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -417,6 +402,69 @@ TextureImporter:
       bones: []
       spriteID: a440219a09df12e4987bec718fa2f05a
       internalID: -6616718186727147539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_13
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 762
+        width: 300
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73eefe72cfdcf4b4daad471affde0f93
+      internalID: -8017508490787355661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_5
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 800
+        width: 250
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f2ad8d16350a0541b205f08fe3b64ad
+      internalID: -5768650751410032934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bedroom_14
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 286
+        width: 90
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baefb994fa5933245a6cab8c0466a45e
+      internalID: -855545898642652073
       vertices: []
       indices: 
       edges: []
